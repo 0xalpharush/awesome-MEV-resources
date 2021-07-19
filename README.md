@@ -4,12 +4,12 @@
 
 ## Navigation
 
-- [Articles](#Articles/Papers)
+- [Articles/Papers](#articlespapers)
 - [Podcasts](#Podcasts)
 - [Eth Research Posts](#Eth-Research-Posts)
 - [Twitter](#Twitter)
-- [ETH Global mev.wtf](ETH-Global-mev.wtf)
-- [Additional Resources](Additional-Resources)
+- [Presentations/Panels](#presentationspanels)
+- [Additional Resources](#Additional-Resources)
 
 ## Articles/Papers
 
@@ -69,7 +69,7 @@
 
 - [2021-06-04, Proposer/Block-builder Separation](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725)
 
-## Youtube Presentations
+## Presentations/Panels
 
 ### Trail of Bits
 
