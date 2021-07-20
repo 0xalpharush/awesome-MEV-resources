@@ -39,6 +39,8 @@
 
 - [2021-07-19, MEV and EIP-1559](https://hackmd.io/@flashbots/MEV-1559)
 
+- [2021-07-20, Ethereum Reorgs After The Merge](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge/)
+
 ## Podcasts
 
 - [2018-09-26, Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44)
@@ -56,6 +58,8 @@
 - [2021-05-15, #25 Paradigm’s Thesis – w/ Charlie Noyes, Georgios Konstantopoulos and Hasu [+transcript]](https://uncommoncore.co/25-episode-charlie-noyes-georgios-konstantopoulos-and-hasu/)
 
 - [2021-05-21, Crypto’s Existential Threat | MEV Panel: Phil Daian, Georgios Konstanopolus, Charlie Noyes](http://podcast.banklesshq.com/66-cryptos-existential-threat-mev-panel-phil-daian-georgios-konstanopolus-charlie-noyes)
+
+- [2021-07-19, Interview with a Searcher - with MEV Senpai and Hasu](https://anchor.fm/uncommoncore/episodes/Interview-with-a-Searcher---with-MEV-Senpai-and-Hasu-e14n9nq)
 
 ## Eth Research Posts
 
