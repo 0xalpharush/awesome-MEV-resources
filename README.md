@@ -94,6 +94,8 @@
 
 - [2021-07-01, Recording](https://www.youtube.com/watch?v=s3nACF7uVZw)
 
+- [MEV.wtf Summit Summary pt 1](https://femboy.capital/SummitSummaryPt1)
+
 ## Twitter
 
 - [MEV Twitter List](https://twitter.com/i/lists/1407389508291674119)
