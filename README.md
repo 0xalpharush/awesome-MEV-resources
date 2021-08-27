@@ -73,6 +73,8 @@
 
 - [2021-06-04, Proposer/Block-builder Separation](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725)
 
+- [2021-08-23, Committee-driven MEV smoothing](https://ethresear.ch/t/committee-driven-mev-smoothing/10408)
+
 ## Presentations/Panels
 
 ### Trail of Bits
