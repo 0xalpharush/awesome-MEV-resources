@@ -41,6 +41,8 @@
 
 - [2021-07-20, Ethereum Reorgs After The Merge](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge/)
 
+- [2021-09-09, Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147)
+
 ## Podcasts
 
 - [2018-09-26, Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44)
