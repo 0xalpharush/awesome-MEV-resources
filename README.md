@@ -41,6 +41,8 @@
 
 - [2021-07-20, Ethereum Reorgs After The Merge](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge/)
 
+- [2021-09-05, Anatomy of an MEV Strategy: Synthetix](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
+
 - [2021-09-09, Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147)
 
 ## Podcasts
@@ -88,11 +90,13 @@
 - [2018-12-10, Smart Contract Security - Incentives Beyond the Launch by Phil Daian](https://youtu.be/i-oWE8hg6-0)
 
 
-### ETHGlobal 'MEV Scaling Ethereum Panel' - Vitalik Buterin, Justin Drake, Phil Daian & others
+### ETHGlobal
 
-- [2021-05-10, Recording](https://www.youtube.com/watch?v=ZVR91ECX744)
+- [2021-05-10, 'MEV Scaling Ethereum Panel' - Vitalik Buterin, Justin Drake, Phil Daian & others](https://www.youtube.com/watch?v=ZVR91ECX744)
 
-### ETHGlobal mev.wtf
+- [2021-05-13, 'MEV on eth2 - Alex Obadia](https://www.youtube.com/watch?v=zsgC6mNP9eU)
+
+#### mev.wtf
 
 - [Outline](https://hackmd.io/ivUzk3piQEG8ALzCGbxlag)
 
@@ -101,6 +105,10 @@
 ## Twitter
 
 - [MEV Twitter List](https://twitter.com/i/lists/1407389508291674119)
+
+- [Bert Miller's MEV thread of threads](https://twitter.com/bertcmiller/status/1402665992422047747)
+
+- [Hasu on MEV impact on gas prices](https://twitter.com/hasufl/status/1439938607142277121)
 
 ## Additional Resources
 
