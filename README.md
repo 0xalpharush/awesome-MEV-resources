@@ -79,6 +79,10 @@
 
 - [2021-08-23, Committee-driven MEV smoothing](https://ethresear.ch/t/committee-driven-mev-smoothing/10408)
 
+- [2021-10-10, Two-slot proposer/builder separation](https://ethresear.ch/t/two-slot-proposer-builder-separation/10980)
+
+- [2021-11-04, MEV-Boost: Merge ready Flashbots Architecture](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)
+
 ## Presentations/Panels
 
 ### Trail of Bits
