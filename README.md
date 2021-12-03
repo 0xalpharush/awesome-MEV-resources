@@ -45,6 +45,8 @@
 
 - [2021-09-09, Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147)
 
+- [2021-12-03, Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value](https://arxiv.org/abs/2112.01472)
+
 ## Podcasts
 
 - [2018-09-26, Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44)
