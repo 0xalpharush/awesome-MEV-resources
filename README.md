@@ -87,16 +87,19 @@
 
 ## Presentations/Panels
 
-### Trail of Bits
+#### Flashbots
+
+- [2022-01-14, MEV in 2021: A Year In Review](https://www.youtube.com/watch?v=V_wlCeVWMgk)
+
+#### Trail of Bits
 
 - [2020-06-10, Detecting transaction replacement attacks with Manticore](https://youtu.be/KXq_xQFwleg)
 
-### Devcon4
+#### Devcon4
 
 - [2018-12-10, Smart Contract Security - Incentives Beyond the Launch by Phil Daian](https://youtu.be/i-oWE8hg6-0)
 
-
-### ETHGlobal
+#### ETHGlobal
 
 - [2021-05-10, 'MEV Scaling Ethereum Panel' - Vitalik Buterin, Justin Drake, Phil Daian & others](https://www.youtube.com/watch?v=ZVR91ECX744)
 
@@ -107,6 +110,10 @@
 - [Outline](https://hackmd.io/ivUzk3piQEG8ALzCGbxlag)
 
 - [2021-07-01, Recording](https://www.youtube.com/watch?v=s3nACF7uVZw)
+
+#### Ethereum Engineering Group
+
+- [2022-01-13, MEV Attacks and how you could mitigate them with Hyperledger Besu](https://www.youtube.com/watch?v=V_wlCeVWMgk)
 
 ## Twitter
 
