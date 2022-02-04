@@ -67,6 +67,8 @@
 
 - [2021-07-19, Interview with a Searcher - with MEV Senpai and Hasu](https://anchor.fm/uncommoncore/episodes/Interview-with-a-Searcher---with-MEV-Senpai-and-Hasu-e14n9nq)
 
+- [2021-02-02, A Dip into the Mempool & MEV with Project Blanc](https://zeroknowledge.fm/216-2/)
+
 ## Eth Research Posts
 
 - [2020-01-15, MEV Auction](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
