@@ -57,6 +57,8 @@
 
 - [2020-10-18, Monsters in the Mempool with Dan Robinson from Paradigm](https://www.zeroknowledge.fm/153)
 
+- [2021-01-14, Interchain Conversations II - Options for Achieving Interoperability](https://www.youtube.com/watch?v=QdnQUIPeIzY)
+
 - [2021-02-17, Flashbots with Phil Daian and Stephane Gosselin](https://www.zeroknowledge.fm/168)
 
 - [2021-04-28, Flashbots – The Good, Bad and the Ugly of MEV](https://epicenter.tv/episodes/389/)
