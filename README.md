@@ -91,6 +91,9 @@
 
 ## Presentations/Panels
 
+#### Devconnect
+- [2022-04-22, MEV-Day](https://mevday.org/)
+
 #### Flashbots
 
 - [2022-01-14, MEV in 2021: A Year In Review](https://www.youtube.com/watch?v=V_wlCeVWMgk)
