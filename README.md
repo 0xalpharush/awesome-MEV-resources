@@ -1,7 +1,5 @@
 # MEV Resources
 
-### Follow me on [Twitter](https://twitter.com/0xalpharush)
-
 ## Navigation
 
 - [Articles/Papers](#articlespapers)
