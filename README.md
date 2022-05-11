@@ -29,6 +29,8 @@
 
 - [2021-02-05, MEV and Me](https://research.paradigm.xyz/MEV)
 
+- [2021-02-09, Analysis of Uniswap Markets](https://arxiv.org/pdf/1911.03380.pdf)
+
 - [2021-04-12, MEV and Cooridnation](https://noma.substack.com/p/mev-and-coordination)
 
 - [2021-04-15, MEV... Wat Do?](https://pdaian.com/blog/mev-wat-do/)
@@ -46,6 +48,8 @@
 - [2021-09-09, Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147)
 
 - [2021-12-03, Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value](https://arxiv.org/abs/2112.01472)
+
+- [2022-04-11, Optimal Routing for Constant Function Market Makers](https://arxiv.org/pdf/2204.05238.pdf)
 
 ## Podcasts
 
@@ -137,3 +141,5 @@
 - [Flashbots: MEV Auction, Data, Research](https://github.com/flashbots/pm)
 
 - [Automata MEV Wiki](https://docs.ata.network/mev/introduction/)
+
+- [Cake Sniper](https://github.com/Supercycled/cake_sniper)
