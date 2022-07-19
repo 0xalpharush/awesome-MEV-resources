@@ -143,3 +143,5 @@
 - [Automata MEV Wiki](https://docs.ata.network/mev/introduction/)
 
 - [Cake Sniper](https://github.com/Supercycled/cake_sniper)
+
+- [Awesome MEV Boost](https://github.com/thegostep/awesome-mev-boost)
