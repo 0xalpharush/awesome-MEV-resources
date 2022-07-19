@@ -49,6 +49,8 @@
 
 - [2022-04-11, Optimal Routing for Constant Function Market Makers](https://arxiv.org/pdf/2204.05238.pdf)
 
+- [2022-07-18, Towards a Theory of Maximal Extractable Value I: Constant Function Market Makers](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
+
 ## Podcasts
 
 - [2018-09-26, Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44)
