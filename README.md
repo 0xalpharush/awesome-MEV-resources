@@ -24,6 +24,7 @@
 - [2020-09-24, Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/)
 
 - [2021-01-22, Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511)
+    - [Presentation at the 43rd IEEE Symposium on Security and Privacy](https://youtu.be/5lop03OWhzU)
 
 - [2021-02-05, MEV and Me](https://research.paradigm.xyz/MEV)
 
