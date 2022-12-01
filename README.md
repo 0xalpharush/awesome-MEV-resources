@@ -29,6 +29,8 @@
 
 - [2021-02-09, Analysis of Uniswap Markets](https://arxiv.org/pdf/1911.03380.pdf)
 
+- [2021-03-03, On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf)
+
 - [2021-04-12, MEV and Cooridnation](https://noma.substack.com/p/mev-and-coordination)
 
 - [2021-04-15, MEV... Wat Do?](https://pdaian.com/blog/mev-wat-do/)
@@ -46,6 +48,8 @@
 - [2021-09-09, Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147)
 
 - [2021-12-03, Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value](https://arxiv.org/abs/2112.01472)
+
+- [2022-01-14, SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols](https://arxiv.org/pdf/2103.12732.pdf)
 
 - [2022-04-11, Optimal Routing for Constant Function Market Makers](https://arxiv.org/pdf/2204.05238.pdf)
 
