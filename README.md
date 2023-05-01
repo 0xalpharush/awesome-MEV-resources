@@ -3,11 +3,11 @@
 ## Navigation
 
 - [Articles/Papers](#articlespapers)
-- [Podcasts](#Podcasts)
-- [Eth Research Posts](#Eth-Research-Posts)
-- [Twitter](#Twitter)
+- [Podcasts](#podcasts)
+- [Eth Research Posts](#eth-research-posts)
+- [Twitter](#twitter)
 - [Presentations/Panels](#presentationspanels)
-- [Additional Resources](#Additional-Resources)
+- [Additional Resources](#additional-resources)
 
 ## Articles/Papers
 
@@ -55,6 +55,10 @@
 
 - [2022-07-18, Towards a Theory of Maximal Extractable Value I: Constant Function Market Makers](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 
+- [2022-11-22, The Future of MEV is SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave/)
+
+- [2023-04-27, Time, slots, and the ordering of events in Ethereum Proof-of-Stake](https://www.paradigm.xyz/2023/04/mev-boost-ethereum-consensus)
+
 ## Podcasts
 
 - [2018-09-26, Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44)
@@ -79,6 +83,8 @@
 
 - [2021-02-02, A Dip into the Mempool & MEV with Project Blanc](https://zeroknowledge.fm/216-2/)
 
+- [2023-04-25, Interview with a Searcher 2.0 | Dean Eigenman, Anish Agnihotri](https://open.spotify.com/episode/4UztGP2pazqsP7bLsEO3Br)
+
 ## Eth Research Posts
 
 - [2020-01-15, MEV Auction](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
@@ -96,6 +102,8 @@
 - [2021-10-10, Two-slot proposer/builder separation](https://ethresear.ch/t/two-slot-proposer-builder-separation/10980)
 
 - [2021-11-04, MEV-Boost: Merge ready Flashbots Architecture](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)
+
+- [2022-10-26, Burning MEV through block proposer auctions](https://ethresear.ch/t/burning-mev-through-block-proposer-auctions/14029)
 
 ## Presentations/Panels
 
@@ -145,7 +153,5 @@
 - [Flashbots: MEV Auction, Data, Research](https://github.com/flashbots/pm)
 
 - [Automata MEV Wiki](https://docs.ata.network/mev/introduction/)
-
-- [Cake Sniper](https://github.com/Supercycled/cake_sniper)
 
 - [Awesome MEV Boost](https://github.com/thegostep/awesome-mev-boost)
