@@ -11,6 +11,12 @@
 
 ## Articles/Papers
 
+- [2022-01-06, MEV: Maximal Extractable Value P1. 2](https://www.galaxy.com/research/whitepapers/mev-how-flashboys-became-flashbots/)
+
+- [2023-02-02, MEV: Maximal Extractable Value Pt. 2](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
+
+- [2022-11-27, All is Fair in Arb and MEV on Avalanche C-Chain](https://www.ddmckinnon.com/2022/11/27/all-is-fair-in-arb-and-mev-on-avalanche-c-chain/)
+
 - [2017-08-17, The Cost of Decentralization in 0x and EtherDelta](https://hackingdistributed.com/2017/08/13/cost-of-decent/)
 
 - [2019-04-09, SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/abs/1902.05164)
