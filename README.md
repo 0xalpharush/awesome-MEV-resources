@@ -11,7 +11,7 @@
 
 ## Articles/Papers
 
-- [2022-01-06, MEV: Maximal Extractable Value P1. 2](https://www.galaxy.com/research/whitepapers/mev-how-flashboys-became-flashbots/)
+- [2022-01-06, MEV: Maximal Extractable Value Pt. 1](https://www.galaxy.com/research/whitepapers/mev-how-flashboys-became-flashbots/)
 
 - [2023-02-02, MEV: Maximal Extractable Value Pt. 2](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
 
