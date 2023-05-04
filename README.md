@@ -11,12 +11,6 @@
 
 ## Articles/Papers
 
-- [2022-01-06, MEV: Maximal Extractable Value Pt. 1](https://www.galaxy.com/research/whitepapers/mev-how-flashboys-became-flashbots/)
-
-- [2023-02-02, MEV: Maximal Extractable Value Pt. 2](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
-
-- [2022-11-27, All is Fair in Arb and MEV on Avalanche C-Chain](https://www.ddmckinnon.com/2022/11/27/all-is-fair-in-arb-and-mev-on-avalanche-c-chain/)
-
 - [2017-08-17, The Cost of Decentralization in 0x and EtherDelta](https://hackingdistributed.com/2017/08/13/cost-of-decent/)
 
 - [2019-04-09, SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/abs/1902.05164)
@@ -55,6 +49,8 @@
 
 - [2021-12-03, Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value](https://arxiv.org/abs/2112.01472)
 
+- [2022-01-06, MEV: Maximal Extractable Value Pt. 1](https://www.galaxy.com/research/whitepapers/mev-how-flashboys-became-flashbots/)
+
 - [2022-01-14, SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols](https://arxiv.org/pdf/2103.12732.pdf)
 
 - [2022-04-11, Optimal Routing for Constant Function Market Makers](https://arxiv.org/pdf/2204.05238.pdf)
@@ -62,6 +58,10 @@
 - [2022-07-18, Towards a Theory of Maximal Extractable Value I: Constant Function Market Makers](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 
 - [2022-11-22, The Future of MEV is SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave/)
+
+- [2022-11-27, All is Fair in Arb and MEV on Avalanche C-Chain](https://www.ddmckinnon.com/2022/11/27/all-is-fair-in-arb-and-mev-on-avalanche-c-chain/)
+
+- [2023-02-02, MEV: Maximal Extractable Value Pt. 2](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
 
 - [2023-04-27, Time, slots, and the ordering of events in Ethereum Proof-of-Stake](https://www.paradigm.xyz/2023/04/mev-boost-ethereum-consensus)
 
