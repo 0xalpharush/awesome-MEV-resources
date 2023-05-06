@@ -161,3 +161,5 @@
 - [Automata MEV Wiki](https://docs.ata.network/mev/introduction/)
 
 - [Awesome MEV Boost](https://github.com/thegostep/awesome-mev-boost)
+
+- [Real-time MEV live stream](https://eigenphi.io/ethereum/txr)
