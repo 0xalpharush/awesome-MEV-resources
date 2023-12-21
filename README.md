@@ -25,7 +25,7 @@
 
 - [2021-01-22, Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511)
 
-- [2021-02-05, MEV and Me](https://research.paradigm.xyz/MEV)
+- [2021-02-05, MEV and Me](https://www.paradigm.xyz/2021/02/mev-and-me)
 
 - [2021-02-09, Analysis of Uniswap Markets](https://arxiv.org/pdf/1911.03380.pdf)
 
