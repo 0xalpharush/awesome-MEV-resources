@@ -152,6 +152,10 @@
 
 - [Hasu on MEV impact on gas prices](https://twitter.com/hasufl/status/1439938607142277121)
 
+
+## Tools & Data Feeds
+- [Phoenix Zero](https://rtt.phoenix-ai.work) — Kernel-level eBPF RTT monitoring for Base, Arbitrum, Optimism, ZkSync sequencers. Real-time P50/P95/P99 + stall detection via WebSocket. Used by MEV searchers to pause strategies during sequencer latency spikes.
+
 ## Additional Resources
 
 - https://github.com/Dogetoshi/MEV
