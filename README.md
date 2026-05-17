@@ -155,6 +155,7 @@
 
 ## Tools & Data Feeds
 - [Phoenix Zero](https://rtt.phoenix-ai.work) — Kernel-level eBPF RTT monitoring for Base, Arbitrum, Optimism, ZkSync sequencers. Real-time P50/P95/P99 + stall detection via WebSocket. Used by MEV searchers to pause strategies during sequencer latency spikes.
+- [Phoenix Foundry](https://github.com/kant19801201behax5/phoenix-foundry) — Pre-flight check for Foundry/Anvil fork simulations using Phoenix Zero feed. Warns when sequencer RTT, revert ratio, or gas pressure makes simulation results unreliable. Zero dependencies, stdlib Python.
 
 ## Additional Resources
 
