@@ -143,6 +143,7 @@
 #### Ethereum Engineering Group
 
 - [2022-01-13, MEV Attacks and how you could mitigate them with Hyperledger Besu](https://www.youtube.com/watch?v=V_wlCeVWMgk)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Twitter
 
