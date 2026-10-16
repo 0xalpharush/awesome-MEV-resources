@@ -154,6 +154,8 @@
 
 ## Additional Resources
 
+- [QWK ($QWK) Autonomous MEV Infrastructure & Resource Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Multi-chain EVM atomic execution & smart contract resource escrow (`QWKResourceEscrow.sol`) with A2A v1.0, x402, and MCP interfaces.
+
 - https://github.com/Dogetoshi/MEV
 
 - [Flashbots: MEV Auction, Data, Research](https://github.com/flashbots/pm)
